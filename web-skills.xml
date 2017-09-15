@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mywebskills>
+    <frontend>
+        <html>
+            <skill title="HTML5" level="good" />
+            <skill title="Pug" level="basic"/>
+        </html>
+
+        <css>
+            <skill title="CSS3" level="okay"/>
+            <skill title="Sass" level="basic"/>
+            <skill title="Bootstrap" level="okay"/>
+        </css>
+        
+        <skill title="Jekyll" level="okay"/>
+        <skill title="Liquid" level="good"/>
+    </frontend>
+
+    <backend>
+        <skill title="Node.js" level="very basic"/>
+    </backend>
+</mywebskills>
